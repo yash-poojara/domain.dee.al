@@ -1,33 +1,6 @@
 [ 
- /*
-    Pengaturan CNAME dee.al GITHUB.
-    
-    
-    -----------------
-    Konsigurasi ini khusus buat github, domain secara otomatis akan dibuat sesuai list dibawah
-    -----------------
-    
-    # CARA PENGGUNAAN
-    silahkan tambhkan tanda koma, setelah }
-    lalu isi dengan perintah sebagai berikut
-    ---------------------------------------
-    
-    {
-    "hostku": "dev", // isi dengan nama domain yang kalian inginkan
-    "target": "mr614ck.github.io" // link web girhub kalian
-    }
-    ---------------------------------------
-    
-    setiap ingin tambahkan domain silahkan pisahkan dengan tanda koma,
-    namun jika tidak silahkan hapus tanda koma,
-    
-    
 
-    
-    
- */
-    
-    {
+ {
     "hostku": "",
     "target": "fsteamid.github.io"
 },
