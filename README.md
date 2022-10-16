@@ -9,8 +9,8 @@ ganti subdomain github,gitlab,vercel anda dengan extensi berikut
  - [x] **github**
  - [ ] gitlab
  - [ ] vercel
- - [ ] blogger
- - [ ] Lainya
+ - [x] blogger
+ - [x] Lainya
 
 # SSL (MODE RANDOM) :
  - [x] **Letsencrypt**
@@ -19,7 +19,8 @@ ganti subdomain github,gitlab,vercel anda dengan extensi berikut
 
 # DNS KOSTUM:
  - [x] CNAME
- - [ ] A
+ - [x] A
+ - [ ] TXT
  - [ ] NS
 
 # Domain : 
