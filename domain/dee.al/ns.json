@@ -1,0 +1,15 @@
+[
+  
+{
+  "koneksi": "NS",
+  "hostku": "@",
+  "target": "ns1.firdausiregar.my.id"
+},
+{
+  "koneksi": "NS",
+  "hostku": "@",
+  "target": "ns2.firdausiregar.my.id"
+}
+  
+]
+  
