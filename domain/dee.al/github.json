@@ -19,7 +19,13 @@
     "koneksi": "CNAME",
     "hostku": "dev",
     "target": "mr614ck.github.io"
+},
+{
+    "koneksi": "CNAME",
+    "hostku": "testing",
+    "target": "testing.github.io"
 }
+
 
 
 ]
