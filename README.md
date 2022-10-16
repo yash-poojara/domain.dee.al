@@ -20,8 +20,7 @@ ganti subdomain github,gitlab,vercel anda dengan extensi berikut
 # DNS KOSTUM:
  - [x] CNAME
  - [x] A
- - [x] TXT
- - [ ] NS
+ - [x] NS
 
 # Domain : 
  - [x] Tersedia
