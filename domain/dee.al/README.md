@@ -110,12 +110,12 @@
     ---------------------------------------
     
     {
-    "koneksi": "A",
+    "koneksi": "NS",
     "hostku": "blog", // isi dengan nama domain yang kalian inginkan
     "target": "ns1.firdausiregar.my.id" // isi dengan  NS target tujuan
     }.
     {
-    "koneksi": "A",
+    "koneksi": "NS",
     "hostku": "blog", // isi dengan nama domain yang kalian inginkan
     "target": "ns2.firdausiregar.my.id" // isi dengan  NS target tujuan
     }
