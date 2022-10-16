@@ -2,8 +2,8 @@
   
 {
   "koneksi": "A",
-  "hostku": "blog", // isi dengan nama domain yang kalian inginkan
-  "target": "127.0.0.1" // isi dengan  IP target tujuan
+  "hostku": "blog",
+  "target": "127.0.0.1"
 }
   
 ]
