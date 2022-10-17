@@ -9,7 +9,20 @@
   "koneksi": "NS",
   "hostku": "@",
   "target": "ns2.firdausiregar.my.id"
+},
+  
+{
+  "koneksi": "NS",
+  "hostku": "rilisan",
+  "target": "ns1.rilisan.my.eu.org"
+},
+
+{
+  "koneksi": "NS",
+  "hostku": "rilisan",
+  "target": "ns2.rilisan.my.eu.org"
 }
+  
   
 ]
   
