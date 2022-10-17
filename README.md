@@ -21,7 +21,7 @@ This service offers a handy domain like example.dee.al or example.gal.aw & examp
 ~~~javascript
 {
 "koneksi": "CNAME",
-"hostku": "yor domain", // fill in the domain name you want
+"hostku": "yourdomain", // fill in the domain name you want
 "target": "mr614ck.github.io" // your github web link
 }
 ~~~
