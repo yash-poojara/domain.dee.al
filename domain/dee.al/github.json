@@ -24,6 +24,11 @@
     "koneksi": "CNAME",
     "hostku": "testing",
     "target": "testing.github.io"
+},
+{
+    "koneksi": "CNAME",
+    "hostku": "riztranslation",
+    "target": "riztranslation.github.io"
 }
 
 
