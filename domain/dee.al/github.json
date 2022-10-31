@@ -29,8 +29,10 @@
     "koneksi": "CNAME",
     "hostku": "riztranslation",
     "target": "riztranslation.github.io"
-}
-
-
-
+},
+    {
+    "koneksi": "CNAME",
+    "hostku": "stonks",
+    "target": "friendlyuser.github.io/stonk_research"
+    }
 ]
