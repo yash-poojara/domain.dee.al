@@ -5,8 +5,9 @@ Create free domain ENJOY
 # List Domain 
 here is a list of supported domain names
  - [x] dee.al
- - [x] gal.aw
- - [x] devz.id
+ - [ ] gal.aw
+ - [ ] devz.id
+ - [ ] fs.at
 
 # What this is
 This service offers a handy domain like example.dee.al or example.gal.aw & example.devz.id to use on your site via CNAME, A, and NS records. **Fork**, add subdomain and send Pull Request. We will make it work.
