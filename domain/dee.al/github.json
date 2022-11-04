@@ -35,4 +35,10 @@
     "hostku": "stonks",
     "target": "dli-invest.github.io"
     }
+    ,
+    {
+        "koneksi": "CNAME",
+        "hostku": "anas",
+        "target": "itzanasov.github.io"
+    }
 ]
