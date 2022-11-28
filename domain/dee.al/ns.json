@@ -25,24 +25,24 @@
 
 {
 "koneksi": "NS",
-"hostku": "lty", // fill in the domain name you want
-"target": "ns41.cloudns.net" // fill with destination target NS
+"hostku": "lty",
+"target": "ns41.cloudns.net"
 },
 {
 "koneksi": "NS",
-"hostku": "lty", // fill in the domain name you want
-"target": "ns42.cloudns.net" // fill with destination target NS
+"hostku": "lty",
+"target": "ns42.cloudns.net"
 }  
 
 {
 "koneksi": "NS",
-"hostku": "lty", // fill in the domain name you want
-"target": "ns43.cloudns.net" // fill with destination target NS
+"hostku": "lty",
+"target": "ns43.cloudns.net"
 },
 {
 "koneksi": "NS",
-"hostku": "lty", // fill in the domain name you want
-"target": "ns44.cloudns.net" // fill with destination target NS
+"hostku": "lty",
+"target": "ns44.cloudns.net"
 }  
 ]
   
