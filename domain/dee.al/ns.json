@@ -21,7 +21,7 @@
   "koneksi": "NS",
   "hostku": "rilisan",
   "target": "ns2.rilisan.my.eu.org"
-}
+},
 
 {
 "koneksi": "NS",
@@ -32,7 +32,7 @@
 "koneksi": "NS",
 "hostku": "lty",
 "target": "ns42.cloudns.net"
-}  
+},
 
 {
 "koneksi": "NS",
@@ -43,6 +43,7 @@
 "koneksi": "NS",
 "hostku": "lty",
 "target": "ns44.cloudns.net"
-}  
+}
+
 ]
   
