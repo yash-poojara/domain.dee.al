@@ -22,7 +22,27 @@
   "hostku": "rilisan",
   "target": "ns2.rilisan.my.eu.org"
 }
-  
-  
+
+{
+"koneksi": "NS",
+"hostku": "lty", // fill in the domain name you want
+"target": "ns41.cloudns.net" // fill with destination target NS
+},
+{
+"koneksi": "NS",
+"hostku": "lty", // fill in the domain name you want
+"target": "ns42.cloudns.net" // fill with destination target NS
+}  
+
+{
+"koneksi": "NS",
+"hostku": "lty", // fill in the domain name you want
+"target": "ns43.cloudns.net" // fill with destination target NS
+},
+{
+"koneksi": "NS",
+"hostku": "lty", // fill in the domain name you want
+"target": "ns44.cloudns.net" // fill with destination target NS
+}  
 ]
   
