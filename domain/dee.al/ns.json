@@ -1,10 +1,4 @@
 [
-// Hey! this is the example of the register
- //{
-  // "koneksi": "NS"
-  // "hostku": "my-wow-subdomain"
-  // "target": "NS / IP / CNAME Reg"
- //}
 {
   "koneksi": "NS", 
   "hostku": "@", 
