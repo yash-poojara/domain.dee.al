@@ -4,6 +4,10 @@
   "koneksi": "A",
   "hostku": "a7vip",
   "target": "37.32.30.5"
-}
-  
+},
+{
+  "koneksi": "A",
+  "hostku": "bee-ntfy",
+  "target": "144.24.42.50"
+} 
 ]
