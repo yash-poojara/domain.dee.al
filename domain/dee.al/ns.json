@@ -46,29 +46,33 @@
 },
 
 {
-"koneksi":"NS",
-"hostku":"599",
-"target":"ns1.he.net"
+  "koneksi":"NS",
+  "hostku":"599",
+  "target":"ns1.he.net"
 },
+
 {
-"koneksi":"NS",
-"hostku":"599",
-"target":"ns2.he.net"
+  "koneksi":"NS",
+  "hostku":"599",
+  "target":"ns2.he.net"
 },
+
 {
-"koneksi":"NS",
-"hostku":"599",
-"target":"ns3.he.net"
+  "koneksi":"NS",
+  "hostku":"599",
+  "target":"ns3.he.net"
 },
+
 {
-"koneksi":"NS",
-"hostku":"599",
-"target":"ns4.he.net"
+  "koneksi":"NS",
+  "hostku":"599",
+  "target":"ns4.he.net"
 },
+
 {
-"koneksi":"NS",
-"hostku":"599",
-"target":"ns5.he.net"
+  "koneksi":"NS",
+  "hostku":"599",
+  "target":"ns5.he.net"
 }
 
 ]
