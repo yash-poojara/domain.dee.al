@@ -45,5 +45,9 @@
        "koneksi": "CNAME",
        "hostku": "hide", // fill in the domain name you want
        "target": "hid-e.vercel.app" // your github web link
+},{
+    "koneksi": "CNAME",
+    "hostku": "chirag-adhvaryu",
+    "target": "chirag-adhvaryu.github.io"
 }
 ]
