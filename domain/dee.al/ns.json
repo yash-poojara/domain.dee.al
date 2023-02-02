@@ -45,6 +45,7 @@
 },
 
 {
+
 "koneksi": "NS",
 "hostku": "minilandx",
 "target": "ns1.afraid.org"
@@ -54,6 +55,29 @@
 "hostku": "minilandx",
 "target": "ns2.afraid.org"
 },
+  "koneksi":"NS",
+  "hostku":"599",
+  "target":"ns1.he.net"
+},
+
+{
+  "koneksi":"NS",
+  "hostku":"599",
+  "target":"ns2.he.net"
+},
+
+{
+  "koneksi":"NS",
+  "hostku":"599",
+  "target":"ns3.he.net"
+},
+
+{
+  "koneksi":"NS",
+  "hostku":"599",
+  "target":"ns4.he.net"
+},
+
 
 {
 "koneksi": "NS",
@@ -65,5 +89,6 @@
 "hostku": "minilandx",
 "target": "ns4.afraid.org"
 }
+
 ]
   
