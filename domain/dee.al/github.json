@@ -1,4 +1,10 @@
 [ 
+    
+{
+"koneksi": "CNAME",
+"hostku": "jayg", // fill in the domain name you want
+"target": "jayggit.github.io" // your github web link
+},
 
 {
     "koneksi": "CNAME",
