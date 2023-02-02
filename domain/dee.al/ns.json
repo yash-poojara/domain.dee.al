@@ -55,6 +55,7 @@
 "hostku": "minilandx",
 "target": "ns2.afraid.org"
 },
+{
   "koneksi":"NS",
   "hostku":"599",
   "target":"ns1.he.net"
