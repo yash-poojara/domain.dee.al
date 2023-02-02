@@ -36,12 +36,12 @@
     "hostku": "riztranslation",
     "target": "riztranslation.github.io"
 },
-    {
+{
     "koneksi": "CNAME",
     "hostku": "stonks",
     "target": "dli-invest.github.io"
-    }
-    ,
+},
+    
     {
         "koneksi": "CNAME",
         "hostku": "anas",
@@ -56,4 +56,5 @@
     "hostku": "chirag-adhvaryu",
     "target": "chirag-adhvaryu.github.io"
 }
+    
 ]
