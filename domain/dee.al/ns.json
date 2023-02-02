@@ -67,12 +67,6 @@
   "koneksi":"NS",
   "hostku":"599",
   "target":"ns4.he.net"
-},
-
-{
-  "koneksi":"NS",
-  "hostku":"599",
-  "target":"ns5.he.net"
 }
 
 ]
