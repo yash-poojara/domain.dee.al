@@ -2,8 +2,8 @@
     
 {
 "koneksi": "CNAME",
-"hostku": "jayg", // fill in the domain name you want
-"target": "jayggit.github.io" // your github web link
+"hostku": "jayg",
+"target": "jayggit.github.io" 
 },
 
 {
@@ -49,8 +49,8 @@
     },
       {
        "koneksi": "CNAME",
-       "hostku": "hide", // fill in the domain name you want
-       "target": "hid-e.vercel.app" // your github web link
+       "hostku": "hide", 
+       "target": "hid-e.vercel.app" 
 },{
     "koneksi": "CNAME",
     "hostku": "chirag-adhvaryu",
