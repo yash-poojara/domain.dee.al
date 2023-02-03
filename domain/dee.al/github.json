@@ -55,6 +55,9 @@
     "koneksi": "CNAME",
     "hostku": "chirag-adhvaryu",
     "target": "chirag-adhvaryu.github.io"
-}
-    
+},{
+  "koneksi": "CNAME",
+  "hostku": "yash-poojara",
+  "target": "yash-poojara-dev.github.io"
+}   
 ]
